@@ -19,6 +19,7 @@ SOURCES = \
 	cobol.c \
 	dosbatch.c \
 	eiffel.c \
+	elixir.c \
 	entry.c \
 	erlang.c \
 	flex.c \
@@ -81,6 +82,7 @@ OBJECTS = \
 	cobol.$(OBJEXT) \
 	dosbatch.$(OBJEXT) \
 	eiffel.$(OBJEXT) \
+	elixir.$(OBJEXT) \
 	entry.$(OBJEXT) \
 	erlang.$(OBJEXT) \
 	flex.$(OBJEXT) \

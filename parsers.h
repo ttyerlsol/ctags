@@ -28,6 +28,7 @@
 	CobolParser, \
 	DosBatchParser, \
 	EiffelParser, \
+	ElixirParser, \
 	ErlangParser, \
 	FlexParser, \
 	FortranParser, \
